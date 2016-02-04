@@ -9,5 +9,6 @@ public class Basic {
 		System.out.println("making changes on the server");
 		System.out.println("local change at the local");
 		System.out.println("making changes on the server1");
+		System.out.println("making changes on the server2");
 	}
 }
