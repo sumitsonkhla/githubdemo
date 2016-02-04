@@ -8,5 +8,6 @@ public class Basic {
 		System.out.println("pulling out and checking in");
 		System.out.println("making changes on the server");
 		System.out.println("local change at the local");
+		System.out.println("making changes on the server1");
 	}
 }
