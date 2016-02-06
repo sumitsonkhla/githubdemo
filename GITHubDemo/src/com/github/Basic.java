@@ -10,5 +10,6 @@ public class Basic {
 		System.out.println("local change at the local");
 		System.out.println("making changes on the server1");
 		System.out.println("making changes on the server2");
+		System.out.println("making changes simultaneously in workspae 1");
 	}
 }
