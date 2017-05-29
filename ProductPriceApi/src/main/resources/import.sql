@@ -1,0 +1,4 @@
+INSERT INTO price VALUES (1, '1', 10.0);
+INSERT INTO price VALUES (2, '2', 20.0);
+INSERT INTO price VALUES (3, '3', 20.0);
+INSERT INTO price VALUES (4, '4', 20.0);
